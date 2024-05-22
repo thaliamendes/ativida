@@ -1,0 +1,18 @@
+#pokemon{
+    width: 220px;
+    margin-left: 80%;
+    border-color:aquamarine;
+    border-style: solid;
+    border-width: 50;
+}
+.c { text-align: center;
+}
+
+:root {  --cor-de-fundo: rgb(0,155,167)
+         --cor-de-fonte: rgb(54,74,251)
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+h1 {color: var(--cor-de-fonte);
+}
